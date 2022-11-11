@@ -1,0 +1,2 @@
+# PythonQualityControl
+准备开发一个用来实现新老7QC质量管理方法的python工具库，今日更新：直方图和正态拟合
